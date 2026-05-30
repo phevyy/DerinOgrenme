@@ -1,4 +1,4 @@
-# 🌿 PlantVillage Yaprak Hastalığı Sınıflandırması | Transfer Learning + Fine-Tuning
+# 🌿 PlantVillage Yaprak Hastalığı Sınıflandırması | Transfer Learning + Fine-Tuning - 22370031011 Fikret Emre Sınmaz
 
 Yaprak fotoğraflarından bitki türünü ve hastalık durumunu tahmin eden, **MobileNetV2** tabanlı bir derin öğrenme görüntü sınıflandırma projesidir. İki aşamalı eğitim stratejisi (Feature Extraction + Fine-Tuning) ile **%96.61 doğrulama doğruluğuna** ulaşılmıştır.
 
