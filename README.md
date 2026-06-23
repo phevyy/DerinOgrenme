@@ -21,11 +21,11 @@ Yaprak fotoğraflarından bitki türünü ve hastalık durumunu tahmin eden, **M
 
 İki aşamalı eğitim sonunda elde edilen doğruluk ve kayıp grafikleri:
 
-![Eğitim Grafikleri](grafik.jpeg)
+![Eğitim Grafikleri](DerinOgrenme/grafik.jpeg)
 
 Sonuç özeti:
 
-![Sonuç Özeti](sonuc_ozet.jpeg)
+![Sonuç Özeti](DerinOgrenme/sonuc_ozet.jpeg)
 
 | Metrik | Değer |
 |--------|-------|
